@@ -1,7 +1,9 @@
 # Logistic Regression
 
-La Regresión logistica es un método de clasificación binaria
+La Regresión logística es un método de clasificación binaria
 
-basado en la función "Logits" la cual puede ser de una o varias variables.
+que pertenece al ML Supervisado. Los features de este modelo pueden ser 
+
+de una o varias variables, mientras que los labels toman valores binarios.
 
 En el presente repositorio se muestran ejemplos de aplicación de regresión logística.
